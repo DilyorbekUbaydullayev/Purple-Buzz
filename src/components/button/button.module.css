@@ -1,0 +1,41 @@
+.btn{
+    background-color: #4232C2;
+   border-radius: 19px !important;
+   padding: 7px 24px !important;
+   background: none;
+   border: 1px solid #4232C2!important;
+   border: none!important;
+   color: #fff!important;
+   font-weight: 300!important;
+   font-size: 18px!important;
+}
+
+.btn:hover{
+    background-color: #4232C2!important;
+    border-radius: 19px !important;
+    padding: 7px 24px !important;
+    color: #fff!important;
+}
+
+@media(max-width:578px){
+    .btn{
+        background-color: #4232C2;
+       border-radius: 19px !important;
+       padding: 7px 24px !important;
+       background: none;
+       border: 1px solid #4232C2!important;
+       border: none!important;
+       color: #fff!important;
+       font-weight: 300!important;
+       font-size: 24px!important;
+       width: 100%;
+       margin-bottom: 20px;
+    }
+    
+    .btn:hover{
+        background-color: #4232C2!important;
+        border-radius: 19px !important;
+        padding: 7px 24px !important;
+        color: #fff!important;
+    }
+  }
